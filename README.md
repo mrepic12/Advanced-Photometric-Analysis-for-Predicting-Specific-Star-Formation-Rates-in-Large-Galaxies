@@ -9,21 +9,21 @@ Key Features
 
 Data Source: Utilizes photometric data from over 27 million galaxies collected by SDSS-DR7.
 
-Algorithms Implemented:                     Accuracy
+Algorithms Implemented                     
 
-Linear Regression:                           98.97%
+Linear Regression                           
 
-Long Short-Term Memory (LSTM) Networks:      98.91%
+Long Short-Term Memory (LSTM) Networks      
 
-Support Vector Regression (SVR):             95.63%
+Support Vector Regression (SVR)            
 
-Random Forest Regressor:                     98.92%
+Random Forest Regressor                    
 
-Decision Tree Regressor:                     98.78% 
+Decision Tree Regressor                     
 
-Gradient Boosting Regressor:                 98.94%
+Gradient Boosting Regressor                 
 
-Classical Deep Learning Models:              98.83%
+Classical Deep Learning Models             
 
 Performance Metrics: Evaluates model performance using Mean Absolute Error (MAE) and other relevant metrics.
 Comparative Analysis: Provides a comprehensive comparison of the performance of different algorithms in estimating SFRs from photometric data.
@@ -36,6 +36,8 @@ The Linear Regression model achieved an impressive accuracy of 98.97% as measure
 Contributing
 
 Contributions are welcome! Please submit a pull request or open an issue if you have any suggestions or improvements.
+
+I have implemented the LSTM, SVR, Linear Regression, Random Forest and Decion trees
 
 Contact
 
