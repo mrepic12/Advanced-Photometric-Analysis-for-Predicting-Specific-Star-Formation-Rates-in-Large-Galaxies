@@ -42,3 +42,6 @@ I have implemented the LSTM, SVR, Linear Regression, Random Forest and Decion tr
 Contact
 
 For any questions or inquiries, please reach out to [satvikraghav007@gmail.com].
+
+
+This work has been submitted to the Experimental Atronomy Springer Journal
